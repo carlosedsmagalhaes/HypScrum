@@ -87,7 +87,7 @@ Clique [aqui](https://www.figma.com/design/n6FbUNp5Q6kOGvgdb87mGL/Prot%C3%B3tipo
 # Sprints📈🏃🏻
 
 ## Sprint 1📈🏃🏻
-O foco da Sprint 1 foi coletar junto com o cliente através do Product Owner os requisitos, e qualifica-los como requisitos funcionáis (RF) e requisitos não funcionais (RNF). Após a validação dos requisitos a equipe criou os cards a serem trablhados e registrou tudo no Trello, onde fomos trabalhando. O foco da primeira sprint foi desenhar um protótipo de alta fidelidade no Figma para alinhar a expectativa do cliente com relação ao produto final entregue. 
+O foco da Sprint 1 foi coletar junto com o cliente através do Product Owner os requisitos, e qualificá-los como requisitos funcionáis (RF) e requisitos não funcionais (RNF). Após a validação dos requisitos a equipe criou os cards a serem trabalhados e registrou tudo no Trello, onde fomos trabalhando. O foco da primeira sprint foi desenhar um protótipo de alta fidelidade no Figma para alinhar a expectativa do cliente com relação ao produto final entregue. 
 <br>
 ### Backlog Sprint 1 📃
  <br>
